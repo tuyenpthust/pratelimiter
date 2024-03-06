@@ -103,6 +103,7 @@ License
 
 | Original work Copyright 2013 Arnaud Porterie
 | Modified work Copyright 2016 Frazer McLean
+| Modified work Copyright 2024 Tuyen Phan
 
 Licensed under the Apache License, Version 2.0 (the “License”); you may
 not use this file except in compliance with the License. You may obtain
